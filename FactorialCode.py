@@ -5,5 +5,3 @@ def factorial(number):
 		num = num * number
 		number = number - 1
 	return num
-
-print factorial(3)
